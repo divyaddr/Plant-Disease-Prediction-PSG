@@ -1,5 +1,3 @@
-Here’s a **GitHub-friendly README** with emojis for the headers while keeping the content professional and minimalistic:  
-
 ---
 
 # 🌱 **Plant Disease Prediction Using Machine Learning**  
